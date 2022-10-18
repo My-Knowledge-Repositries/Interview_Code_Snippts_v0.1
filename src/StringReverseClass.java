@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// 1st java interview question - Reverse String for using scanner
+// 1st java interview question - Reverse String for using scanner(First method. Second method is another java class)
 public class StringReverseClass {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
